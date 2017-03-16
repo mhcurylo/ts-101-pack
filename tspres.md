@@ -39,7 +39,7 @@ Profits:
 
 - npm install typescript - g
 
-- console.log("Moo") > moo.ts
+- echo "console.log('Moo')" > moo.ts
 
 - tsc mmo.ts && node moo.js
 
@@ -110,7 +110,7 @@ Profits:
 
 - never
 
-# The good
+## Other goodies
 
 - destructuring arrays, objects
 

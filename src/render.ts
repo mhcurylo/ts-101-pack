@@ -1,1 +1,1 @@
-export const render: (view:string ) => void = console.log;
+export const render = (view:string ):void => console.log(view);
