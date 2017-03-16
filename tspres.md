@@ -39,14 +39,12 @@ Profits:
 
 - npm install typescript - g
 
-- create moo.ts
-
-- console.log("Moo")
+- console.log("Moo") > moo.ts
 
 - tsc mmo.ts && node moo.js
 
 
---
+---
 
 # Congratulations
 
@@ -90,13 +88,13 @@ Profits:
 
 # Interfaces
 
-- Predefined browser interfaces
+- predefined browser interfaces
 
 - creating own interface
 
-- Typing functions - interface, function, fat arrow function
+- typing functions - interface, function, fat arrow function
 
-- Structural typing, object creation - interface, class, literal
+- structural typing, object creation - interface, class, literal
 
 ---
 
@@ -108,7 +106,7 @@ Profits:
 
 - stripping null
 
-- Control flow
+- control flow
 
 - never
 
