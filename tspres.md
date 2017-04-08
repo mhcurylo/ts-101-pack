@@ -8,7 +8,7 @@ author: Mateusz Curylo
 
 What?
 
-Language written in JavaScript, transpilled to JavaScript, made by Microsoft.
+Language written in 'node', transpilled to JavaScript, made by Microsoft.
 
 Profits:
 
